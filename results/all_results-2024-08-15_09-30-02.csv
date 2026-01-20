@@ -1,0 +1,1261 @@
+Crop,Year,Month,Model,Features,Parameters,Predicted Production,Actual Production,Error,% Error,Feature Values,Abs_Error,Abs_Pct_Error
+Rice,2017,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",990878.95,1011269.0,-20390.050000000047,-0.020162835012247034,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",20390.050000000047,0.020162835012247034
+Corn,2017,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",416053.4,410364.0,5689.400000000023,0.01386427659346342,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5689.400000000023,0.01386427659346342
+Millet,2017,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",703507.2,875484.0,-171976.80000000005,-0.19643625697328568,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",171976.80000000005,0.19643625697328568
+Sorghum,2017,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",196474.15,215491.0,-19016.850000000006,-0.08824892918961816,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",19016.850000000006,0.08824892918961816
+Peanut,2017,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",722630.3,1405223.0,-682592.7,-0.48575400488036413,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",682592.7,0.48575400488036413
+Rice,2018,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1053147.35,1206587.27,-153439.91999999993,-0.12716852217411503,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",153439.91999999993,0.12716852217411503
+Corn,2018,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",426868.15,485672.51,-58804.359999999986,-0.1210782137947235,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",58804.359999999986,0.1210782137947235
+Millet,2018,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",897934.15,897574.18,359.96999999997206,0.00040104763263129075,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",359.96999999997206,0.00040104763263129075
+Sorghum,2018,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",220350.7,295463.11,-75112.40999999997,-0.25421924923216294,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75112.40999999997,0.25421924923216294
+Peanut,2018,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1448242.9,1500588.37,-52345.470000000205,-0.03488329714297346,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",52345.470000000205,0.03488329714297346
+Rice,2019,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1260740.6835,1155730.28,105010.40350000001,0.09086064916461306,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",105010.40350000001,0.09086064916461306
+Corn,2019,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",507739.1855,530704.97,-22965.78449999995,-0.04327410858805402,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",22965.78449999995,0.04327410858805402
+Millet,2019,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",920381.9890000001,807044.07,113337.91900000011,0.14043584881306434,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",113337.91900000011,0.14043584881306434
+Sorghum,2019,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",304257.56549999997,270168.31,34089.25549999997,0.12617784632105805,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",34089.25549999997,0.12617784632105805
+Peanut,2019,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1546664.4385000002,1421288.11,125376.32850000006,0.0882131691793299,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",125376.32850000006,0.0882131691793299
+Rice,2020,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1195316.794,1349723.01,-154406.21600000001,-0.11439844683391744,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",154406.21600000001,0.11439844683391744
+Corn,2020,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",553933.6185,761883.04,-207949.42150000005,-0.27294139727798644,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",207949.42150000005,0.27294139727798644
+Millet,2020,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",813646.2734999999,1144854.92,-331208.64650000003,-0.28930185014185034,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",331208.64650000003,0.28930185014185034
+Sorghum,2020,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",276304.5255,377322.86,-101018.3345,-0.2677238651800742,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",101018.3345,0.2677238651800742
+Peanut,2020,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1441640.0155000002,1797486.11,-355846.0944999999,-0.19796875899085523,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",355846.0944999999,0.19796875899085523
+Rice,2021,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1407094.5105,1382119.93,24974.580500000156,0.01806976367094291,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",24974.580500000156,0.01806976367094291
+Corn,2021,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",796047.542,754620.83,41426.71200000006,0.054897387340871656,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",41426.71200000006,0.054897387340871656
+Millet,2021,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1172086.616,1039859.75,132226.86599999992,0.1271583653468652,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",132226.86599999992,0.1271583653468652
+Sorghum,2021,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",389001.50299999997,352474.34,36527.16299999994,0.10363070117387818,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",36527.16299999994,0.10363070117387818
+Peanut,2021,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1834283.4155000001,1677803.56,156479.85550000006,0.09326470585150032,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",156479.85550000006,0.09326470585150032
+Rice,2022,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1440876.4764999999,1409120.0,31756.476499999873,0.022536389022936212,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",31756.476499999873,0.022536389022936212
+Corn,2022,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",786924.5715,787750.0,-825.4285000000382,-0.0010478305299905276,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",825.4285000000382,0.0010478305299905276
+Millet,2022,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1064019.9875,1097033.0,-33013.01249999995,-0.030092998569778623,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",33013.01249999995,0.030092998569778623
+Sorghum,2022,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",362615.607,363164.0,-548.3929999999818,-0.0015100422949410786,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",548.3929999999818,0.0015100422949410786
+Peanut,2022,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1717325.938,1501498.0,215827.93800000008,0.1437417419137422,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",215827.93800000008,0.1437417419137422
+Rice,2023,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1470956.25,1521000.0,-50043.75,-0.03290187376725838,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",50043.75,0.03290187376725838
+Corn,2023,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",823118.9,929000.0,-105881.09999999998,-0.11397319698600643,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",105881.09999999998,0.11397319698600643
+Millet,2023,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1131143.65,1353000.0,-221856.3500000001,-0.16397365114560244,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",221856.3500000001,0.16397365114560244
+Sorghum,2023,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",375475.75,445000.0,-69524.25,-0.15623426966292134,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",69524.25,0.15623426966292134
+Peanut,2023,1,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1563536.75,1728000.0,-164463.25,-0.09517549189814815,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",164463.25,0.09517549189814815
+Rice,2017,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",992324.000812416,1011269.0,-18944.999187584035,-0.018733887014814096,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",18944.999187584035,0.018733887014814096
+Corn,2017,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",427882.65266814496,410364.0,17518.65266814496,0.042690520289657384,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",17518.65266814496,0.042690520289657384
+Millet,2017,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",720595.3452521977,875484.0,-154888.6547478023,-0.1769177446393107,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",154888.6547478023,0.1769177446393107
+Sorghum,2017,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",199899.3464483839,215491.0,-15591.653551616095,-0.07235408231256106,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",15591.653551616095,0.07235408231256106
+Peanut,2017,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",764850.8693597376,1405223.0,-640372.1306402624,-0.45570854635902086,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",640372.1306402624,0.45570854635902086
+Rice,2018,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1058611.2950377166,1206587.27,-147975.9749622834,-0.1226400929642523,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",147975.9749622834,0.1226400929642523
+Corn,2018,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",425329.5948286729,485672.51,-60342.91517132713,-0.12424609984890256,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",60342.91517132713,0.12424609984890256
+Millet,2018,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",902404.3699225407,897574.18,4830.189922540681,0.0053813824307431405,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",4830.189922540681,0.0053813824307431405
+Sorghum,2018,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",221542.30387128622,295463.11,-73920.80612871377,-0.25018624534451617,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",73920.80612871377,0.25018624534451617
+Peanut,2018,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1408805.6130873088,1500588.37,-91782.75691269129,-0.06116451303210572,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",91782.75691269129,0.06116451303210572
+Rice,2019,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1249585.5518985395,1155730.28,93855.2718985395,0.08120862931664255,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",93855.2718985395,0.08120862931664255
+Corn,2019,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",489011.56219156145,530704.97,-41693.407808438526,-0.07856230893869061,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",41693.407808438526,0.07856230893869061
+Millet,2019,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",891853.5488837154,807044.07,84809.47888371546,0.10508655231642489,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",84809.47888371546,0.10508655231642489
+Sorghum,2019,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",296947.5691744695,270168.31,26779.25917446951,0.09912065250905819,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",26779.25917446951,0.09912065250905819
+Peanut,2019,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1512942.1625572324,1421288.11,91654.05255723232,0.06448661035884717,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",91654.05255723232,0.06448661035884717
+Rice,2020,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1207816.1170778184,1349723.01,-141906.89292218164,-0.10513778891728433,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",141906.89292218164,0.10513778891728433
+Corn,2020,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",570501.752927425,761883.04,-191381.28707257507,-0.2511951008550801,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",191381.28707257507,0.2511951008550801
+Millet,2020,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",841968.3593992305,1144854.92,-302886.5606007695,-0.26456326937981756,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",302886.5606007695,0.26456326937981756
+Sorghum,2020,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",283356.1342555522,377322.86,-93966.72574444779,-0.2490353373883782,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",93966.72574444779,0.2490353373883782
+Peanut,2020,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1475845.5569989174,1797486.11,-321640.55300108274,-0.17893910345770778,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",321640.55300108274,0.17893910345770778
+Rice,2021,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1349673.2004391344,1382119.93,-32446.729560865555,-0.023476059390059992,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",32446.729560865555,0.023476059390059992
+Corn,2021,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",639414.7270416633,754620.83,-115206.1029583367,-0.1526675363020879,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",115206.1029583367,0.1526675363020879
+Millet,2021,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",955533.3215613165,1039859.75,-84326.4284386835,-0.08109404026714517,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",84326.4284386835,0.08109404026714517
+Sorghum,2021,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",336772.22875205096,352474.34,-15702.11124794907,-0.04454823930714805,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",15702.11124794907,0.04454823930714805
+Peanut,2021,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1447652.9339047566,1677803.56,-230150.6260952435,-0.13717376192433606,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",230150.6260952435,0.13717376192433606
+Rice,2022,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1462591.7093693982,1409120.0,53471.70936939819,0.03794688129428167,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",53471.70936939819,0.03794688129428167
+Corn,2022,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",846325.5416851876,787750.0,58575.54168518761,0.07435803450991763,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",58575.54168518761,0.07435803450991763
+Millet,2022,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1156318.7223922696,1097033.0,59285.72239226964,0.054041876946518144,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",59285.72239226964,0.054041876946518144
+Sorghum,2022,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",385157.95174129575,363164.0,21993.95174129575,0.060562037375113585,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",21993.95174129575,0.060562037375113585
+Peanut,2022,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1879314.3578563286,1501498.0,377816.3578563286,0.25162628112480245,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",377816.3578563286,0.25162628112480245
+Rice,2023,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1471534.274457739,1521000.0,-49465.72554226103,-0.03252184453797569,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",49465.72554226103,0.03252184453797569
+Corn,2023,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",884390.6924669639,929000.0,-44609.3075330361,-0.04801863028313897,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",44609.3075330361,0.04801863028313897
+Millet,2023,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1210210.1655482478,1353000.0,-142789.83445175225,-0.10553572391112509,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",142789.83445175225,0.10553572391112509
+Sorghum,2023,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",393360.9774266809,445000.0,-51639.02257331909,-0.11604274735577323,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",51639.02257331909,0.11604274735577323
+Peanut,2023,2,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1609125.4215150876,1728000.0,-118874.5784849124,-0.06879315884543542,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",118874.5784849124,0.06879315884543542
+Rice,2017,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",989333.7051910551,1011269.0,-21935.29480894492,-0.02169086050194846,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",21935.29480894492,0.02169086050194846
+Corn,2017,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",422457.26536663703,410364.0,12093.265366637032,0.029469605927023402,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",12093.265366637032,0.029469605927023402
+Millet,2017,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",717808.304909958,875484.0,-157675.69509004196,-0.18010117271137105,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",157675.69509004196,0.18010117271137105
+Sorghum,2017,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",196693.9056920592,215491.0,-18797.094307940803,-0.08722913860876233,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",18797.094307940803,0.08722913860876233
+Peanut,2017,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",770124.1800579666,1405223.0,-635098.8199420334,-0.4519558959268624,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",635098.8199420334,0.4519558959268624
+Rice,2018,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1053898.7671841308,1206587.27,-152688.50281586917,-0.12654575977406854,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",152688.50281586917,0.12654575977406854
+Corn,2018,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",421882.5201386462,485672.51,-63789.989861353824,-0.1313436287784825,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",63789.989861353824,0.1313436287784825
+Millet,2018,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",889106.3044139947,897574.18,-8467.875586005393,-0.009434179118215492,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",8467.875586005393,0.009434179118215492
+Sorghum,2018,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",219947.25885648862,295463.11,-75515.85114351136,-0.2555847027519319,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75515.85114351136,0.2555847027519319
+Peanut,2018,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1412260.794365373,1500588.37,-88327.57563462714,-0.05886196201469103,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",88327.57563462714,0.05886196201469103
+Rice,2019,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1259908.5093971137,1155730.28,104178.22939711367,0.09014060737174219,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",104178.22939711367,0.09014060737174219
+Corn,2019,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",498602.9974739776,530704.97,-32101.97252602235,-0.06048930072394527,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",32101.97252602235,0.06048930072394527
+Millet,2019,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",906628.8425716449,807044.07,99584.77257164498,0.1233944666387859,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",99584.77257164498,0.1233944666387859
+Sorghum,2019,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",303594.16270237305,270168.31,33425.85270237306,0.12372232961879599,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",33425.85270237306,0.12372232961879599
+Peanut,2019,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1496424.8189488908,1421288.11,75136.70894889068,0.052865220232434555,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75136.70894889068,0.052865220232434555
+Rice,2020,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1203604.6865239267,1349723.01,-146118.32347607333,-0.10825800730482718,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",146118.32347607333,0.10825800730482718
+Corn,2020,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",568064.8034424029,761883.04,-193818.23655759718,-0.2543936882458982,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",193818.23655759718,0.2543936882458982
+Millet,2020,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",831670.6303582329,1144854.92,-313184.28964176704,-0.27355805890388896,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",313184.28964176704,0.27355805890388896
+Sorghum,2020,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",281104.323521438,377322.86,-96218.53647856199,-0.25500319932527277,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",96218.53647856199,0.25500319932527277
+Peanut,2020,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1462792.084575248,1797486.11,-334694.02542475215,-0.1862011748311936,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",334694.02542475215,0.1862011748311936
+Rice,2021,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1368272.1664295697,1382119.93,-13847.763570430223,-0.010019219946007308,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",13847.763570430223,0.010019219946007308
+Corn,2021,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",636079.4309512747,754620.83,-118541.39904872526,-0.15708736670935158,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",118541.39904872526,0.15708736670935158
+Millet,2021,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",959233.7109913109,1039859.75,-80626.03900868911,-0.07753549361698932,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",80626.03900868911,0.07753549361698932
+Sorghum,2021,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",353116.78825796186,352474.34,642.4482579618343,0.0018226809303673972,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",642.4482579618343,0.0018226809303673972
+Peanut,2021,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1292397.5629364247,1677803.56,-385405.9970635753,-0.22970865377325536,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",385405.9970635753,0.22970865377325536
+Rice,2022,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1450807.3825579016,1409120.0,41687.382557901554,0.0295839833072425,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",41687.382557901554,0.0295839833072425
+Corn,2022,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",816547.8866757207,787750.0,28797.886675720685,0.03655713954391709,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",28797.886675720685,0.03655713954391709
+Millet,2022,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1119856.4625742005,1097033.0,22823.462574200472,0.020804718339558128,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",22823.462574200472,0.020804718339558128
+Sorghum,2022,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",373482.0932901636,363164.0,10318.093290163612,0.02841166329857478,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",10318.093290163612,0.02841166329857478
+Peanut,2022,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1837675.6086913748,1501498.0,336177.6086913748,0.22389480951115137,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",336177.6086913748,0.22389480951115137
+Rice,2023,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1462797.2202300918,1521000.0,-58202.77976990817,-0.03826612739638933,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",58202.77976990817,0.03826612739638933
+Corn,2023,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",871541.5366758518,929000.0,-57458.46332414821,-0.06184979905721013,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",57458.46332414821,0.06184979905721013
+Millet,2023,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1215222.9128887001,1353000.0,-137777.08711129986,-0.10183081087309671,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",137777.08711129986,0.10183081087309671
+Sorghum,2023,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",386942.0676444177,445000.0,-58057.93235558231,-0.13046726372040968,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",58057.93235558231,0.13046726372040968
+Peanut,2023,3,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1641870.7622915811,1728000.0,-86129.23770841886,-0.0498433088590387,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",86129.23770841886,0.0498433088590387
+Rice,2017,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",991231.8840274159,1011269.0,-20037.115972584113,-0.0198138338786061,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",20037.115972584113,0.0198138338786061
+Corn,2017,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",424116.19023600494,410364.0,13752.190236004943,0.033512175132333594,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",13752.190236004943,0.033512175132333594
+Millet,2017,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",716997.1473062853,875484.0,-158486.85269371467,-0.18102769747215788,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",158486.85269371467,0.18102769747215788
+Sorghum,2017,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",197905.7739684944,215491.0,-17585.22603150559,-0.08160538505787059,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",17585.22603150559,0.08160538505787059
+Peanut,2017,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",753067.6184840766,1405223.0,-652155.3815159234,-0.4640938708773792,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",652155.3815159234,0.4640938708773792
+Rice,2018,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1054157.2258340104,1206587.27,-152430.04416598962,-0.12633155342836463,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",152430.04416598962,0.12633155342836463
+Corn,2018,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",419805.33296938526,485672.51,-65867.17703061475,-0.13562055845123858,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",65867.17703061475,0.13562055845123858
+Millet,2018,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",889235.3494585246,897574.18,-8338.830541475443,-0.009290408221719839,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",8338.830541475443,0.009290408221719839
+Sorghum,2018,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",219911.9669945441,295463.11,-75551.14300545587,-0.25570414866835955,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75551.14300545587,0.25570414866835955
+Peanut,2018,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1410314.280768942,1500588.37,-90274.08923105802,-0.060159128936243866,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",90274.08923105802,0.060159128936243866
+Rice,2019,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1259121.4495007887,1155730.28,103391.16950078867,0.08945960081688668,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",103391.16950078867,0.08945960081688668
+Corn,2019,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",499659.7897384295,530704.97,-31045.180261570495,-0.05849800174581085,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",31045.180261570495,0.05849800174581085
+Millet,2019,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",910048.1046488337,807044.07,103004.0346488338,0.1276312390831814,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",103004.0346488338,0.1276312390831814
+Sorghum,2019,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",303212.6466485754,270168.31,33044.33664857538,0.12231018748488814,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",33044.33664857538,0.12231018748488814
+Peanut,2019,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1516983.5268339985,1421288.11,95695.4168339984,0.06733006218844566,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",95695.4168339984,0.06733006218844566
+Rice,2020,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1199612.8020455055,1349723.01,-150110.20795449452,-0.1112155655955621,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",150110.20795449452,0.1112155655955621
+Corn,2020,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",564699.8790602222,761883.04,-197183.16093977785,-0.2588102774144675,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",197183.16093977785,0.2588102774144675
+Millet,2020,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",829576.130973433,1144854.92,-315278.7890265669,-0.27538754781834446,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",315278.7890265669,0.27538754781834446
+Sorghum,2020,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",278731.1974998297,377322.86,-98591.66250017029,-0.26129257713187665,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",98591.66250017029,0.26129257713187665
+Peanut,2020,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1477522.9057926482,1797486.11,-319963.2042073519,-0.17800593975513496,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",319963.2042073519,0.17800593975513496
+Rice,2021,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1392837.7646353394,1382119.93,10717.834635339445,0.007754634314071026,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",10717.834635339445,0.007754634314071026
+Corn,2021,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",653935.61083179,754620.83,-100685.21916820994,-0.1334249137652481,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",100685.21916820994,0.1334249137652481
+Millet,2021,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1014007.4859738257,1039859.75,-25852.26402617432,-0.02486129886859677,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",25852.26402617432,0.02486129886859677
+Sorghum,2021,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",370862.70024913724,352474.34,18388.360249137215,0.05216935862377163,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",18388.360249137215,0.05216935862377163
+Peanut,2021,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1331133.2310372065,1677803.56,-346670.3289627936,-0.20662152425209634,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",346670.3289627936,0.20662152425209634
+Rice,2022,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1443007.561206558,1409120.0,33887.56120655802,0.024048740495172888,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",33887.56120655802,0.024048740495172888
+Corn,2022,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",796696.7582065976,787750.0,8946.758206597646,0.0113573572917774,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",8946.758206597646,0.0113573572917774
+Millet,2022,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1080469.72341692,1097033.0,-16563.276583079947,-0.015098248259696788,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",16563.276583079947,0.015098248259696788
+Sorghum,2022,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",365704.4844886465,363164.0,2540.4844886465,0.006995419393570122,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",2540.4844886465,0.006995419393570122
+Peanut,2022,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1755045.9051618408,1501498.0,253547.90516184084,0.1688632986269984,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",253547.90516184084,0.1688632986269984
+Rice,2023,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1458774.50292346,1521000.0,-62225.49707654002,-0.040910911950387915,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",62225.49707654002,0.040910911950387915
+Corn,2023,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",892156.1918298918,929000.0,-36843.80817010824,-0.039659642809589064,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",36843.80817010824,0.039659642809589064
+Millet,2023,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1228869.5555230735,1353000.0,-124130.44447692647,-0.0917446005003152,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",124130.44447692647,0.0917446005003152
+Sorghum,2023,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",389798.2325827722,445000.0,-55201.76741722779,-0.12404891554433212,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",55201.76741722779,0.12404891554433212
+Peanut,2023,4,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1680093.6259226773,1728000.0,-47906.37407732266,-0.027723596109561724,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",47906.37407732266,0.027723596109561724
+Rice,2017,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",988013.5642828641,1011269.0,-23255.4357171359,-0.0229962905192742,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",23255.4357171359,0.0229962905192742
+Corn,2017,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",415472.1748108148,410364.0,5108.174810814788,0.012447911636534364,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5108.174810814788,0.012447911636534364
+Millet,2017,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",708455.2877986691,875484.0,-167028.71220133093,-0.19078442575915827,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",167028.71220133093,0.19078442575915827
+Sorghum,2017,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",195224.02130787537,215491.0,-20266.978692124627,-0.09405023268779034,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",20266.978692124627,0.09405023268779034
+Peanut,2017,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",731310.9026295515,1405223.0,-673912.0973704485,-0.47957662048688965,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",673912.0973704485,0.47957662048688965
+Rice,2018,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1054600.2775799534,1206587.27,-151986.9924200466,-0.125964359312399,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",151986.9924200466,0.125964359312399
+Corn,2018,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",420152.8594989868,485672.51,-65519.65050101321,-0.13490500111075507,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",65519.65050101321,0.13490500111075507
+Millet,2018,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",890398.7150146673,897574.18,-7175.464985332801,-0.007994286316628227,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",7175.464985332801,0.007994286316628227
+Sorghum,2018,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",219635.0322538926,295463.11,-75828.07774610739,-0.25664143908221704,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75828.07774610739,0.25664143908221704
+Peanut,2018,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1417163.6210451196,1500588.37,-83424.74895488052,-0.05559469247044778,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",83424.74895488052,0.05559469247044778
+Rice,2019,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1261541.1130004856,1155730.28,105810.83300048555,0.09155322382008158,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",105810.83300048555,0.09155322382008158
+Corn,2019,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",503009.0076747786,530704.97,-27695.962325221393,-0.05218711693094073,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",27695.962325221393,0.05218711693094073
+Millet,2019,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",914685.9230429068,807044.07,107641.85304290685,0.13337791211687716,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",107641.85304290685,0.13337791211687716
+Sorghum,2019,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",304575.6717297878,270168.31,34407.36172978778,0.12735528356300477,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",34407.36172978778,0.12735528356300477
+Peanut,2019,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1521356.8648268376,1421288.11,100068.75482683745,0.07040708644698185,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",100068.75482683745,0.07040708644698185
+Rice,2020,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1193811.9925637967,1349723.01,-155911.0174362033,-0.11551334331642113,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",155911.0174362033,0.11551334331642113
+Corn,2020,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",554694.3924053563,761883.04,-207188.64759464376,-0.27194285305871063,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",207188.64759464376,0.27194285305871063
+Millet,2020,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",816958.1743908792,1144854.92,-327896.7456091207,-0.2864089937344382,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",327896.7456091207,0.2864089937344382
+Sorghum,2020,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",275154.83943563,377322.86,-102168.02056436997,-0.2707708209472651,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",102168.02056436997,0.2707708209472651
+Peanut,2020,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1459261.6600594895,1797486.11,-338224.44994051056,-0.18816526484341542,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",338224.44994051056,0.18816526484341542
+Rice,2021,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1409724.4539391384,1382119.93,27604.52393913851,0.019972596690027117,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",27604.52393913851,0.019972596690027117
+Corn,2021,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",670603.9833129111,754620.83,-84016.84668708884,-0.11133650615911152,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",84016.84668708884,0.11133650615911152
+Millet,2021,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1049654.7292306558,1039859.75,9794.979230655823,0.009419519536798903,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",9794.979230655823,0.009419519536798903
+Sorghum,2021,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",377432.3231817304,352474.34,24957.98318173038,0.07080794358457519,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",24957.98318173038,0.07080794358457519
+Peanut,2021,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1378452.2004647104,1677803.56,-299351.3595352897,-0.17841859838185686,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",299351.3595352897,0.17841859838185686
+Rice,2022,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1442198.7998475344,1409120.0,33078.79984753439,0.023474792670272505,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",33078.79984753439,0.023474792670272505
+Corn,2022,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",794353.7404140346,787750.0,6603.740414034575,0.008383040830256523,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",6603.740414034575,0.008383040830256523
+Millet,2022,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1075123.9158365794,1097033.0,-21909.0841634206,-0.019971217058575814,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",21909.0841634206,0.019971217058575814
+Sorghum,2022,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",364938.3834155956,363164.0,1774.3834155956283,0.004885901178518874,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",1774.3834155956283,0.004885901178518874
+Peanut,2022,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1743456.5777154844,1501498.0,241958.57771548443,0.16114478854815953,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",241958.57771548443,0.16114478854815953
+Rice,2023,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1455588.5697394323,1521000.0,-65411.43026056769,-0.043005542577625046,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",65411.43026056769,0.043005542577625046
+Corn,2023,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",901368.3629861126,929000.0,-27631.637013887404,-0.029743419821192038,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",27631.637013887404,0.029743419821192038
+Millet,2023,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1228235.914210039,1353000.0,-124764.08578996104,-0.09221292371763566,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",124764.08578996104,0.09221292371763566
+Sorghum,2023,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",391976.50848612475,445000.0,-53023.491513875255,-0.11915391351432641,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",53023.491513875255,0.11915391351432641
+Peanut,2023,5,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1679368.7684266334,1728000.0,-48631.23157336656,-0.02814307382717972,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",48631.23157336656,0.02814307382717972
+Rice,2017,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",988985.27927664,1011269.0,-22283.720723359962,-0.02203540375840648,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",22283.720723359962,0.02203540375840648
+Corn,2017,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",417348.40865802526,410364.0,6984.408658025262,0.017020032600387126,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",6984.408658025262,0.017020032600387126
+Millet,2017,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",715761.6149289997,875484.0,-159722.38507100032,-0.18243895384838593,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",159722.38507100032,0.18243895384838593
+Sorghum,2017,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",197063.77496611906,215491.0,-18427.22503388094,-0.0855127361879658,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",18427.22503388094,0.0855127361879658
+Peanut,2017,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",741356.6698601325,1405223.0,-663866.3301398675,-0.47242774288484285,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",663866.3301398675,0.47242774288484285
+Rice,2018,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1051109.2668755413,1206587.27,-155478.00312445872,-0.12885765248000564,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",155478.00312445872,0.12885765248000564
+Corn,2018,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",425370.8916576615,485672.51,-60301.61834233854,-0.12416106965234358,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",60301.61834233854,0.12416106965234358
+Millet,2018,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",899058.9199729041,897574.18,1484.7399729040917,0.0016541696563776953,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",1484.7399729040917,0.0016541696563776953
+Sorghum,2018,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",220580.19310216754,295463.11,-74882.91689783245,-0.25344252586332167,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",74882.91689783245,0.25344252586332167
+Peanut,2018,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1442712.7664969373,1500588.37,-57875.603503062855,-0.03856860726107244,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",57875.603503062855,0.03856860726107244
+Rice,2019,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1259989.5957638216,1155730.28,104259.31576382159,0.0902107676575036,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",104259.31576382159,0.0902107676575036
+Corn,2019,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",505235.1596555292,530704.97,-25469.81034447078,-0.04799240968945662,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",25469.81034447078,0.04799240968945662
+Millet,2019,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",912391.2758468749,807044.07,105347.20584687497,0.1305346383957384,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",105347.20584687497,0.1305346383957384
+Sorghum,2019,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",304006.81630441116,270168.31,33838.50630441116,0.12524972416051003,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",33838.50630441116,0.12524972416051003
+Peanut,2019,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1525923.1003419065,1421288.11,104634.99034190644,0.07361983091655247,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",104634.99034190644,0.07361983091655247
+Rice,2020,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1194939.5619288401,1349723.01,-154783.4480711599,-0.11467793534257069,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",154783.4480711599,0.11467793534257069
+Corn,2020,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",549487.0378710269,761883.04,-212396.00212897314,-0.2787777007465255,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",212396.00212897314,0.2787777007465255
+Millet,2020,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",802338.3945535306,1144854.92,-342516.5254464693,-0.29917897845647495,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",342516.5254464693,0.29917897845647495
+Sorghum,2020,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",276212.48211552686,377322.86,-101110.37788447313,-0.267967803181798,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",101110.37788447313,0.267967803181798
+Peanut,2020,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1406335.6042360482,1797486.11,-391150.5057639519,-0.21760975152344955,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",391150.5057639519,0.21760975152344955
+Rice,2021,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1384339.313724159,1382119.93,2219.3837241590954,0.0016057823029576714,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",2219.3837241590954,0.0016057823029576714
+Corn,2021,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",778782.9617938042,754620.83,24162.131793804234,0.03201890384314495,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",24162.131793804234,0.03201890384314495
+Millet,2021,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1061217.6883405067,1039859.75,21357.93834050675,0.020539249009788818,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",21357.93834050675,0.020539249009788818
+Sorghum,2021,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",384456.0150353118,352474.34,31981.675035311782,0.0907347611043453,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",31981.675035311782,0.0907347611043453
+Peanut,2021,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1615639.174072322,1677803.56,-62164.385927678086,-0.037051051392260774,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",62164.385927678086,0.037051051392260774
+Rice,2022,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1443400.409833323,1409120.0,34280.40983332298,0.024327530539147112,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",34280.40983332298,0.024327530539147112
+Corn,2022,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",785871.1426181425,787750.0,-1878.857381857466,-0.002385093471098021,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",1878.857381857466,0.002385093471098021
+Millet,2022,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1065275.0492030657,1097033.0,-31757.95079693431,-0.028948947567606728,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",31757.95079693431,0.028948947567606728
+Sorghum,2022,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",364032.3341451627,363164.0,868.3341451627202,0.002391024840465245,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",868.3341451627202,0.002391024840465245
+Peanut,2022,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1703227.2180568117,1501498.0,201729.21805681172,0.13435197253463654,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",201729.21805681172,0.13435197253463654
+Rice,2023,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1467714.227145326,1521000.0,-53285.77285467391,-0.03503338123252722,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",53285.77285467391,0.03503338123252722
+Corn,2023,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",839572.8962778063,929000.0,-89427.10372219374,-0.0962616832316402,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",89427.10372219374,0.0962616832316402
+Millet,2023,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1220723.7557267477,1353000.0,-132276.24427325232,-0.09776514728252204,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",132276.24427325232,0.09776514728252204
+Sorghum,2023,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",377025.5615891402,445000.0,-67974.43841085979,-0.15275154699069615,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",67974.43841085979,0.15275154699069615
+Peanut,2023,6,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1671578.9903742112,1728000.0,-56421.00962578878,-0.032651047237146284,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",56421.00962578878,0.032651047237146284
+Rice,2017,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1015053.1939822203,1011269.0,3784.193982220255,0.003742025101353107,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",3784.193982220255,0.003742025101353107
+Corn,2017,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",431045.18091285153,410364.0,20681.18091285153,0.05039716181938847,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",20681.18091285153,0.05039716181938847
+Millet,2017,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",715824.3333218608,875484.0,-159659.66667813924,-0.18236731531146114,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",159659.66667813924,0.18236731531146114
+Sorghum,2017,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",205158.21701709117,215491.0,-10332.78298290883,-0.0479499514267827,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",10332.78298290883,0.0479499514267827
+Peanut,2017,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",734884.7585362676,1405223.0,-670338.2414637324,-0.4770333544666807,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",670338.2414637324,0.4770333544666807
+Rice,2018,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1014315.4584125415,1206587.27,-192271.81158745848,-0.15935176540314275,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",192271.81158745848,0.15935176540314275
+Corn,2018,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",402650.6446673186,485672.51,-83021.8653326814,-0.17094207232911204,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",83021.8653326814,0.17094207232911204
+Millet,2018,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",851766.4352576896,897574.18,-45807.74474231049,-0.051035051768434876,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",45807.74474231049,0.051035051768434876
+Sorghum,2018,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",205364.1900848128,295463.11,-90098.91991518717,-0.3049413509361192,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",90098.91991518717,0.3049413509361192
+Peanut,2018,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1386979.8663958902,1500588.37,-113608.50360410986,-0.0757093056799513,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",113608.50360410986,0.0757093056799513
+Rice,2019,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1227281.5355839753,1155730.28,71551.25558397523,0.06190999476450096,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",71551.25558397523,0.06190999476450096
+Corn,2019,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",489536.6273149188,530704.97,-41168.34268508118,-0.07757293602334492,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",41168.34268508118,0.07757293602334492
+Millet,2019,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",874452.4744598537,807044.07,67408.40445985377,0.08352506011208753,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",67408.40445985377,0.08352506011208753
+Sorghum,2019,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",293856.7137680818,270168.31,23688.4037680818,0.08768017154966029,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",23688.4037680818,0.08768017154966029
+Peanut,2019,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1479782.0592890384,1421288.11,58493.94928903831,0.041155588988244125,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",58493.94928903831,0.041155588988244125
+Rice,2020,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1275755.9603864586,1349723.01,-73967.04961354146,-0.05480165120215403,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",73967.04961354146,0.05480165120215403
+Corn,2020,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",613810.2568500891,761883.04,-148072.78314991097,-0.19435106883323058,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",148072.78314991097,0.19435106883323058
+Millet,2020,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",963145.1380537573,1144854.92,-181709.78194624267,-0.15871861034256,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",181709.78194624267,0.15871861034256
+Sorghum,2020,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",316692.48631764634,377322.86,-60630.373682353646,-0.1606856623591628,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",60630.373682353646,0.1606856623591628
+Peanut,2020,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1629333.867344433,1797486.11,-168152.24265556713,-0.09354856302926709,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",168152.24265556713,0.09354856302926709
+Rice,2021,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1434958.9652749638,1382119.93,52839.035274963826,0.03823042713447004,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",52839.035274963826,0.03823042713447004
+Corn,2021,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",829510.1254129518,754620.83,74889.29541295185,0.09924095974524298,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",74889.29541295185,0.09924095974524298
+Millet,2021,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1239711.663041479,1039859.75,199851.91304147895,0.19219121909611267,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",199851.91304147895,0.19219121909611267
+Sorghum,2021,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",408629.25505426497,352474.34,56154.915054264944,0.15931632088243627,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",56154.915054264944,0.15931632088243627
+Peanut,2021,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1920450.7762293685,1677803.56,242647.21622936847,0.1446219462243652,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",242647.21622936847,0.1446219462243652
+Rice,2022,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1509397.6706834983,1409120.0,100277.67068349826,0.07116332937116658,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",100277.67068349826,0.07116332937116658
+Corn,2022,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",864851.5318755682,787750.0,77101.53187556821,0.09787563551325701,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",77101.53187556821,0.09787563551325701
+Millet,2022,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1222930.3430801153,1097033.0,125897.34308011527,0.1147616736051835,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",125897.34308011527,0.1147616736051835
+Sorghum,2022,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",408025.4085902666,363164.0,44861.4085902666,0.12352933823359859,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",44861.4085902666,0.12352933823359859
+Peanut,2022,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1923287.6818868534,1501498.0,421789.6818868534,0.28091258322478846,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",421789.6818868534,0.28091258322478846
+Rice,2023,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1365029.856529233,1521000.0,-155970.14347076695,-0.10254447302483034,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",155970.14347076695,0.10254447302483034
+Corn,2023,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",699943.3964778525,929000.0,-229056.60352214752,-0.24656254415731702,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",229056.60352214752,0.24656254415731702
+Millet,2023,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",860945.979243002,1353000.0,-492054.020756998,-0.36367629028602955,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",492054.020756998,0.36367629028602955
+Sorghum,2023,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",301893.88918659487,445000.0,-143106.11081340513,-0.32158676587282053,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",143106.11081340513,0.32158676587282053
+Peanut,2023,7,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1249718.3298982081,1728000.0,-478281.67010179185,-0.27678337390149993,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",478281.67010179185,0.27678337390149993
+Rice,2017,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1032583.4499062448,1011269.0,21314.449906244758,0.02107693393770081,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",21314.449906244758,0.02107693393770081
+Corn,2017,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",457502.26802038174,410364.0,47138.26802038174,0.11486940379853433,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",47138.26802038174,0.11486940379853433
+Millet,2017,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",765353.8013477304,875484.0,-110130.19865226955,-0.12579350239669662,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",110130.19865226955,0.12579350239669662
+Sorghum,2017,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",215525.2934864848,215491.0,34.29348648479208,0.00015914115431638482,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",34.29348648479208,0.00015914115431638482
+Peanut,2017,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",801462.4985847387,1405223.0,-603760.5014152613,-0.42965458252196365,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",603760.5014152613,0.42965458252196365
+Rice,2018,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",988468.3977859209,1206587.27,-218118.87221407914,-0.1807733908995071,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",218118.87221407914,0.1807733908995071
+Corn,2018,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",363234.497566964,485672.51,-122438.012433036,-0.2520999437111151,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",122438.012433036,0.2520999437111151
+Millet,2018,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",796080.8437862173,897574.18,-101493.33621378278,-0.11307515130814344,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",101493.33621378278,0.11307515130814344
+Sorghum,2018,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",190500.06852827087,295463.11,-104963.04147172911,-0.35524922712594853,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",104963.04147172911,0.35524922712594853
+Peanut,2018,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1313664.1556766878,1500588.37,-186924.21432331228,-0.1245672817811538,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",186924.21432331228,0.1245672817811538
+Rice,2019,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1204539.1653143254,1155730.28,48808.88531432534,0.04223207279325184,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",48808.88531432534,0.04223207279325184
+Corn,2019,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",447615.56471095036,530704.97,-83089.40528904961,-0.15656421172963506,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",83089.40528904961,0.15656421172963506
+Millet,2019,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",817266.3214969917,807044.07,10222.251496991725,0.012666286609344301,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",10222.251496991725,0.012666286609344301
+Sorghum,2019,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",276753.229045763,270168.31,6584.919045762974,0.02437339540586005,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",6584.919045762974,0.02437339540586005
+Peanut,2019,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1407913.1444408416,1421288.11,-13374.965559158474,-0.009410453422535473,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",13374.965559158474,0.009410453422535473
+Rice,2020,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1378526.840964025,1349723.01,28803.830964024877,0.021340549691025033,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",28803.830964024877,0.021340549691025033
+Corn,2020,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",772737.0205386046,761883.04,10853.980538604548,0.014246255617666128,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",10853.980538604548,0.014246255617666128
+Millet,2020,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1167690.8657361376,1144854.92,22835.945736137684,0.01994658479184217,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",22835.945736137684,0.01994658479184217
+Sorghum,2020,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",378229.97094590444,377322.86,907.1109459044528,0.0024040710014348265,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",907.1109459044528,0.0024040710014348265
+Peanut,2020,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1877540.3004553588,1797486.11,80054.19045535871,0.04453675052618832,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",80054.19045535871,0.04453675052618832
+Rice,2021,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1353651.2629732813,1382119.93,-28468.667026718613,-0.020597826866383884,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",28468.667026718613,0.020597826866383884
+Corn,2021,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",719927.3545051714,754620.83,-34693.47549482854,-0.045974712220478386,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",34693.47549482854,0.045974712220478386
+Millet,2021,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1052157.7912829965,1039859.75,12298.041282996535,0.01182663458509336,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",12298.041282996535,0.01182663458509336
+Sorghum,2021,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",353403.68803752173,352474.34,929.3480375217041,0.0026366402658465978,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",929.3480375217041,0.0026366402658465978
+Peanut,2021,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1683337.5996103403,1677803.56,5534.03961034026,0.0032983835189503707,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5534.03961034026,0.0032983835189503707
+Rice,2022,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1512524.8827746885,1409120.0,103404.88277468854,0.07338259536071345,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",103404.88277468854,0.07338259536071345
+Corn,2022,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",888077.8907765353,787750.0,100327.89077653526,0.12736006445767725,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",100327.89077653526,0.12736006445767725
+Millet,2022,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1226859.2776030244,1097033.0,129826.27760302438,0.11834309232541262,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",129826.27760302438,0.11834309232541262
+Sorghum,2022,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",410749.3772514219,363164.0,47585.377251421916,0.13102999540544194,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",47585.377251421916,0.13102999540544194
+Peanut,2022,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1920364.9658130596,1501498.0,418866.9658130596,0.2789660497803258,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",418866.9658130596,0.2789660497803258
+Rice,2023,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1358655.3003062296,1521000.0,-162344.69969377038,-0.10673550275724548,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",162344.69969377038,0.10673550275724548
+Corn,2023,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",663364.6131322851,929000.0,-265635.38686771493,-0.2859369072849461,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",265635.38686771493,0.2859369072849461
+Millet,2023,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",871603.0211398625,1353000.0,-481396.9788601375,-0.35579968873624357,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",481396.9788601375,0.35579968873624357
+Sorghum,2023,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",299283.54885135335,445000.0,-145716.45114864665,-0.3274526992104419,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",145716.45114864665,0.3274526992104419
+Peanut,2023,8,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1293377.3320925115,1728000.0,-434622.66790748853,-0.25151774763164847,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",434622.66790748853,0.25151774763164847
+Rice,2017,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1103702.1081480477,1011269.0,92433.1081480477,0.09140308676331194,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",92433.1081480477,0.09140308676331194
+Corn,2017,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",519519.8229008714,410364.0,109155.8229008714,0.2659975604606432,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",109155.8229008714,0.2659975604606432
+Millet,2017,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",884306.2324390035,875484.0,8822.232439003536,0.010076977350817988,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",8822.232439003536,0.010076977350817988
+Sorghum,2017,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",245360.63786949113,215491.0,29869.637869491125,0.13861199711120709,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",29869.637869491125,0.13861199711120709
+Peanut,2017,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",877648.4639410576,1405223.0,-527574.5360589424,-0.37543830129377503,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",527574.5360589424,0.37543830129377503
+Rice,2018,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",944042.4045403897,1206587.27,-262544.86545961036,-0.21759293503868174,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",262544.86545961036,0.21759293503868174
+Corn,2018,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",330392.15326252836,485672.51,-155280.35673747165,-0.31972235104982916,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",155280.35673747165,0.31972235104982916
+Millet,2018,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",700202.0569969886,897574.18,-197372.12300301145,-0.2198950542483424,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",197372.12300301145,0.2198950542483424
+Sorghum,2018,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",171523.57366614888,295463.11,-123939.53633385111,-0.41947550181087284,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",123939.53633385111,0.41947550181087284
+Peanut,2018,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1236367.1489409218,1500588.37,-264221.22105907835,-0.17607841453487896,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",264221.22105907835,0.17607841453487896
+Rice,2019,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1221384.356895732,1155730.28,65654.07689573197,0.05680743857964158,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",65654.07689573197,0.05680743857964158
+Corn,2019,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",466807.0000868025,530704.97,-63897.96991319745,-0.12040205674576111,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",63897.96991319745,0.12040205674576111
+Millet,2019,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",832983.8494581673,807044.07,25939.77945816738,0.03214171372099591,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",25939.77945816738,0.03214171372099591
+Sorghum,2019,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",285857.19469459535,270168.31,15688.884694595356,0.05807078074625168,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",15688.884694595356,0.05807078074625168
+Peanut,2019,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1444855.8675609808,1421288.11,23567.75756098074,0.016581970534447613,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",23567.75756098074,0.016581970534447613
+Rice,2020,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1296423.9905421147,1349723.01,-53299.0194578853,-0.03948885738999537,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",53299.0194578853,0.03948885738999537
+Corn,2020,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",678921.2458162641,761883.04,-82961.79418373597,-0.10889045933314905,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",82961.79418373597,0.10889045933314905
+Millet,2020,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1065530.2391833342,1144854.92,-79324.68081666576,-0.0692879765207855,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",79324.68081666576,0.0692879765207855
+Sorghum,2020,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",332922.4657630603,377322.86,-44400.39423693967,-0.11767215545047992,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",44400.39423693967,0.11767215545047992
+Peanut,2020,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1697787.4542989314,1797486.11,-99698.6557010687,-0.055465605629113145,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",99698.6557010687,0.055465605629113145
+Rice,2021,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1453290.749518164,1382119.93,71170.81951816403,0.051493953580543504,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",71170.81951816403,0.051493953580543504
+Corn,2021,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",881659.6194646636,754620.83,127038.7894646636,0.16834784359804061,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",127038.7894646636,0.16834784359804061
+Millet,2021,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1334995.3320965595,1039859.75,295135.58209655946,0.28382248865441656,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",295135.58209655946,0.28382248865441656
+Sorghum,2021,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",428631.6298303603,352474.34,76157.28983036027,0.2160647774540418,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",76157.28983036027,0.2160647774540418
+Peanut,2021,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1999901.3367710048,1677803.56,322097.7767710048,0.1919758572755709,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",322097.7767710048,0.1919758572755709
+Rice,2022,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1415909.2076667636,1409120.0,6789.20766676357,0.004818047907036711,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",6789.20766676357,0.004818047907036711
+Corn,2022,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",738581.8557084466,787750.0,-49168.14429155341,-0.062415924203812645,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",49168.14429155341,0.062415924203812645
+Millet,2022,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",972327.5671515381,1097033.0,-124705.4328484619,-0.11367518830195801,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",124705.4328484619,0.11367518830195801
+Sorghum,2022,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",340607.00489477476,363164.0,-22556.995105225244,-0.06211242057369465,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",22556.995105225244,0.06211242057369465
+Peanut,2022,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1634709.0998082224,1501498.0,133211.09980822238,0.08871879936451622,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",133211.09980822238,0.08871879936451622
+Rice,2023,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1422337.3832157596,1521000.0,-98662.61678424035,-0.06486694068654855,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",98662.61678424035,0.06486694068654855
+Corn,2023,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",733905.7139184637,929000.0,-195094.28608153632,-0.21000461365073878,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",195094.28608153632,0.21000461365073878
+Millet,2023,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",970419.6552201123,1353000.0,-382580.3447798877,-0.28276448246850533,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",382580.3447798877,0.28276448246850533
+Sorghum,2023,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",335964.36445518944,445000.0,-109035.63554481056,-0.24502390010069788,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",109035.63554481056,0.24502390010069788
+Peanut,2023,9,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1388942.1476794982,1728000.0,-339057.8523205018,-0.19621403490769782,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",339057.8523205018,0.19621403490769782
+Rice,2017,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1019492.8090464419,1011269.0,8223.809046441922,0.008132167649203053,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",8223.809046441922,0.008132167649203053
+Corn,2017,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",437016.7065911242,410364.0,26652.70659112418,0.06494893945649273,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",26652.70659112418,0.06494893945649273
+Millet,2017,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",748635.5768732461,875484.0,-126848.42312675389,-0.14488948184861616,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",126848.42312675389,0.14488948184861616
+Sorghum,2017,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",209564.2025650789,215491.0,-5926.7974349211145,-0.02750368894720018,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5926.7974349211145,0.02750368894720018
+Peanut,2017,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",724964.0861981369,1405223.0,-680258.9138018631,-0.4840932106874589,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",680258.9138018631,0.4840932106874589
+Rice,2018,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1020138.7084694381,1206587.27,-186448.56153056188,-0.15452555000896195,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",186448.56153056188,0.15452555000896195
+Corn,2018,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",400193.2222939925,485672.51,-85479.28770600748,-0.176001906523405,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",85479.28770600748,0.176001906523405
+Millet,2018,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",836007.2642940667,897574.18,-61566.91570593335,-0.0685925654701134,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",61566.91570593335,0.0685925654701134
+Sorghum,2018,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",204550.9114869716,295463.11,-90912.19851302839,-0.3076939064001201,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",90912.19851302839,0.3076939064001201
+Peanut,2018,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1403450.852566742,1500588.37,-97137.517433258,-0.06473295367020471,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",97137.517433258,0.06473295367020471
+Rice,2019,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1183973.94966936,1155730.28,28243.669669359922,0.024437942103031098,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",28243.669669359922,0.024437942103031098
+Corn,2019,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",433760.4628447245,530704.97,-96944.5071552755,-0.18267118763797427,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",96944.5071552755,0.18267118763797427
+Millet,2019,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",760021.2482394165,807044.07,-47022.821760583436,-0.058265494424094386,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",47022.821760583436,0.058265494424094386
+Sorghum,2019,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",266498.915338843,270168.31,-3669.3946611569845,-0.013581884052785409,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",3669.3946611569845,0.013581884052785409
+Peanut,2019,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1399086.171737343,1421288.11,-22201.93826265703,-0.015620997675592338,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",22201.93826265703,0.015620997675592338
+Rice,2020,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1382672.9736676016,1349723.01,32949.96366760158,0.024412389374321757,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",32949.96366760158,0.024412389374321757
+Corn,2020,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",741498.6381738028,761883.04,-20384.40182619728,-0.026755290190207254,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",20384.40182619728,0.026755290190207254
+Millet,2020,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1210325.049006327,1144854.92,65470.12900632713,0.057186397911734646,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",65470.12900632713,0.057186397911734646
+Sorghum,2020,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",373994.52711962716,377322.86,-3328.332880372822,-0.008820915012604383,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",3328.332880372822,0.008820915012604383
+Peanut,2020,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1801137.203520052,1797486.11,3651.0935200517997,0.002031222104994068,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",3651.0935200517997,0.002031222104994068
+Rice,2021,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1443561.1201400661,1382119.93,61441.1901400662,0.044454311674722906,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",61441.1901400662,0.044454311674722906
+Corn,2021,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",845086.9088323097,754620.83,90466.0788323097,0.11988282755501156,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",90466.0788323097,0.11988282755501156
+Millet,2021,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1270172.2496137337,1039859.75,230312.49961373373,0.2214841949731526,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",230312.49961373373,0.2214841949731526
+Sorghum,2021,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",414747.0392268103,352474.34,62272.69922681025,0.17667300044255774,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",62272.69922681025,0.17667300044255774
+Peanut,2021,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1924677.2005733068,1677803.56,246873.6405733067,0.14714096838208324,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",246873.6405733067,0.14714096838208324
+Rice,2022,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1392128.3817060892,1409120.0,-16991.618293910753,-0.012058318875546975,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",16991.618293910753,0.012058318875546975
+Corn,2022,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",719752.8847494723,787750.0,-67997.11525052774,-0.08631814059095873,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",67997.11525052774,0.08631814059095873
+Millet,2022,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",930902.4730141237,1097033.0,-166130.52698587626,-0.15143621658225073,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",166130.52698587626,0.15143621658225073
+Sorghum,2022,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",327422.49604748015,363164.0,-35741.50395251985,-0.09841697952583366,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",35741.50395251985,0.09841697952583366
+Peanut,2022,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1602692.420081716,1501498.0,101194.42008171603,0.06739564094105756,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",101194.42008171603,0.06739564094105756
+Rice,2023,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1388472.8374680635,1521000.0,-132527.16253193654,-0.08713159929778866,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",132527.16253193654,0.08713159929778866
+Corn,2023,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",711995.3399896225,929000.0,-217004.66001037753,-0.23358951561935148,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",217004.66001037753,0.23358951561935148
+Millet,2023,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",922689.4407493927,1353000.0,-430310.5592506073,-0.3180418028459773,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",430310.5592506073,0.3180418028459773
+Sorghum,2023,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",319966.8947737228,445000.0,-125033.1052262772,-0.28097327017140944,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",125033.1052262772,0.28097327017140944
+Peanut,2023,10,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1359348.3019137713,1728000.0,-368651.6980862287,-0.21334010305916012,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",368651.6980862287,0.21334010305916012
+Rice,2017,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1028630.8607331539,1011269.0,17361.86073315388,0.017168390144614222,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",17361.86073315388,0.017168390144614222
+Corn,2017,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",448529.88609170815,410364.0,38165.88609170815,0.09300495679861817,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",38165.88609170815,0.09300495679861817
+Millet,2017,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",757693.5773900108,875484.0,-117790.42260998918,-0.13454320422759203,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",117790.42260998918,0.13454320422759203
+Sorghum,2017,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",210104.3286410381,215491.0,-5386.671358961903,-0.024997198764504795,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5386.671358961903,0.024997198764504795
+Peanut,2017,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",761054.4084741141,1405223.0,-644168.5915258859,-0.4584102249435754,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",644168.5915258859,0.4584102249435754
+Rice,2018,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1032340.0172744672,1206587.27,-174247.25272553286,-0.1444133027572327,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",174247.25272553286,0.1444133027572327
+Corn,2018,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",408326.0152156522,485672.51,-77346.49478434783,-0.15925648084209632,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",77346.49478434783,0.15925648084209632
+Millet,2018,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",870337.9123159853,897574.18,-27236.267684014747,-0.030344308348993224,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",27236.267684014747,0.030344308348993224
+Sorghum,2018,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",214659.8870445001,295463.11,-80803.22295549989,-0.27347990399038274,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",80803.22295549989,0.27347990399038274
+Peanut,2018,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1420005.625232825,1500588.37,-80582.74476717506,-0.053700765898362285,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",80582.74476717506,0.053700765898362285
+Rice,2019,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1197214.6735260666,1155730.28,41484.39352606656,0.03589452854524722,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",41484.39352606656,0.03589452854524722
+Corn,2019,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",455176.00017284,530704.97,-75528.96982715995,-0.14231818825280637,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75528.96982715995,0.14231818825280637
+Millet,2019,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",795275.3562480963,807044.07,-11768.713751903619,-0.014582492071224338,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",11768.713751903619,0.014582492071224338
+Sorghum,2019,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",275793.97319086496,270168.31,5625.663190864958,0.020822809273467188,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5625.663190864958,0.020822809273467188
+Peanut,2019,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1414060.1852247918,1421288.11,-7227.924775208347,-0.005085474735455534,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",7227.924775208347,0.005085474735455534
+Rice,2020,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1355761.3774503989,1349723.01,6038.367450398859,0.004473782698865642,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",6038.367450398859,0.004473782698865642
+Corn,2020,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",703104.623406532,761883.04,-58778.41659346805,-0.07714887129324738,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",58778.41659346805,0.07714887129324738
+Millet,2020,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1151548.2924043422,1144854.92,6693.372404342284,0.005846480883658416,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",6693.372404342284,0.005846480883658416
+Sorghum,2020,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",353371.7186830986,377322.86,-23951.14131690137,-0.06347651800609529,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",23951.14131690137,0.06347651800609529
+Peanut,2020,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1776309.2191657354,1797486.11,-21176.89083426469,-0.011781393311720605,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",21176.89083426469,0.011781393311720605
+Rice,2021,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1469074.9595033946,1382119.93,86955.02950339462,0.06291424326931934,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",86955.02950339462,0.06291424326931934
+Corn,2021,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",865164.7956913426,754620.83,110543.9656913426,0.14648941732941909,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",110543.9656913426,0.14648941732941909
+Millet,2021,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1317840.0765448762,1039859.75,277980.3265448762,0.26732482581893974,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",277980.3265448762,0.26732482581893974
+Sorghum,2021,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",426732.83773587714,352474.34,74258.49773587711,0.21067774106868917,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",74258.49773587711,0.21067774106868917
+Peanut,2021,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1989589.2972063394,1677803.56,311785.73720633937,0.18582970297568052,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",311785.73720633937,0.18582970297568052
+Rice,2022,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1397339.3398718662,1409120.0,-11780.660128133837,-0.00836029587837362,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",11780.660128133837,0.00836029587837362
+Corn,2022,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",719805.9482760426,787750.0,-67944.05172395741,-0.08625077971940008,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",67944.05172395741,0.08625077971940008
+Millet,2022,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",934847.7516498284,1097033.0,-162185.2483501716,-0.1478398993924263,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",162185.2483501716,0.1478398993924263
+Sorghum,2022,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",331788.1029347742,363164.0,-31375.897065225814,-0.08639594526226667,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",31375.897065225814,0.08639594526226667
+Peanut,2022,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1585639.2633412322,1501498.0,84141.2633412322,0.05603821206637118,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",84141.2633412322,0.05603821206637118
+Rice,2023,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1373133.1943406456,1521000.0,-147866.80565935443,-0.09721683475302724,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",147866.80565935443,0.09721683475302724
+Corn,2023,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",704335.9327782908,929000.0,-224664.06722170918,-0.24183430271443399,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",224664.06722170918,0.24183430271443399
+Millet,2023,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",892799.4831716418,1353000.0,-460200.5168283582,-0.34013341968097427,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",460200.5168283582,0.34013341968097427
+Sorghum,2023,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",314488.7946294,445000.0,-130511.20537059999,-0.293283607574382,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",130511.20537059999,0.293283607574382
+Peanut,2023,11,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1311808.128983642,1728000.0,-416191.871016358,-0.24085177720854054,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",416191.871016358,0.24085177720854054
+Rice,2017,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1031566.1155791766,1011269.0,20297.115579176578,0.020070936199148376,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",20297.115579176578,0.020070936199148376
+Corn,2017,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",446952.23770617787,410364.0,36588.23770617787,0.08916044708156141,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",36588.23770617787,0.08916044708156141
+Millet,2017,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",768655.510394548,875484.0,-106828.48960545205,-0.12202220669418522,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",106828.48960545205,0.12202220669418522
+Sorghum,2017,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",212638.57488886124,215491.0,-2852.4251111387566,-0.01323686423627324,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",2852.4251111387566,0.01323686423627324
+Peanut,2017,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",785122.9030594786,1405223.0,-620100.0969405214,-0.44128234233322494,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",620100.0969405214,0.44128234233322494
+Rice,2018,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1028260.2191056742,1206587.27,-178327.05089432583,-0.14779457344542168,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",178327.05089432583,0.14779457344542168
+Corn,2018,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",409469.7163769231,485672.51,-76202.79362307693,-0.15690159944007728,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",76202.79362307693,0.15690159944007728
+Millet,2018,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",856719.7388241629,897574.18,-40854.441175837186,-0.04551650669790566,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",40854.441175837186,0.04551650669790566
+Sorghum,2018,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",210869.15671516838,295463.11,-84593.9532848316,-0.28630969627589586,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",84593.9532848316,0.28630969627589586
+Peanut,2018,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1401310.9838660029,1500588.37,-99277.38613399724,-0.06615897345252464,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",99277.38613399724,0.06615897345252464
+Rice,2019,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1196934.1729598406,1155730.28,41203.892959840596,0.03565182436843361,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",41203.892959840596,0.03565182436843361
+Corn,2019,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",455182.11315532506,530704.97,-75522.85684467491,-0.14230666964485922,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",75522.85684467491,0.14230666964485922
+Millet,2019,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",795143.4777350969,807044.07,-11900.59226490301,-0.014745901379218376,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",11900.59226490301,0.014745901379218376
+Sorghum,2019,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",275816.5854242181,270168.31,5648.275424218096,0.020906506111757137,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",5648.275424218096,0.020906506111757137
+Peanut,2019,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1412118.5386443527,1421288.11,-9169.571355647407,-0.0064515922501085345,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",9169.571355647407,0.0064515922501085345
+Rice,2020,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1367585.5103415844,1349723.01,17862.50034158444,0.013234197097658164,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",17862.50034158444,0.013234197097658164
+Corn,2020,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",709017.2460687085,761883.04,-52865.793931291555,-0.06938833279618818,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",52865.793931291555,0.06938833279618818
+Millet,2020,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1173065.3599899688,1144854.92,28210.4399899689,0.024641061061229402,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",28210.4399899689,0.024641061061229402
+Sorghum,2020,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",360506.99328140786,377322.86,-16815.866718592122,-0.04456625479461309,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",16815.866718592122,0.04456625479461309
+Peanut,2020,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1806769.0527035508,1797486.11,9282.942703550681,0.005164403024817077,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",9282.942703550681,0.005164403024817077
+Rice,2021,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1458477.8614957673,1382119.93,76357.93149576732,0.05524696507036645,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",76357.93149576732,0.05524696507036645
+Corn,2021,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",857429.624959186,754620.83,102808.794959186,0.1362390102048813,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",102808.794959186,0.1362390102048813
+Millet,2021,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1300121.0218817245,1039859.75,260261.27188172447,0.25028497533607247,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",260261.27188172447,0.25028497533607247
+Sorghum,2021,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",421270.5600172787,352474.34,68796.22001727868,0.19518078966337998,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",68796.22001727868,0.19518078966337998
+Peanut,2021,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1972366.8615436258,1677803.56,294563.30154362577,0.17556483283634572,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",294563.30154362577,0.17556483283634572
+Rice,2022,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1391313.2158387287,1409120.0,-17806.784161271295,-0.01263681174156303,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",17806.784161271295,0.01263681174156303
+Corn,2022,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",724641.7045812034,787750.0,-63108.295418796595,-0.08011208558400075,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",63108.295418796595,0.08011208558400075
+Millet,2022,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",936649.0924492462,1097033.0,-160383.9075507538,-0.14619788789467025,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",160383.9075507538,0.14619788789467025
+Sorghum,2022,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",330602.0142914527,363164.0,-32561.98570854729,-0.08966193154758537,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",32561.98570854729,0.08966193154758537
+Peanut,2022,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1584375.6587506838,1501498.0,82877.65875068377,0.0551966494465419,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",82877.65875068377,0.0551966494465419
+Rice,2023,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1365820.8823247827,1521000.0,-155179.11767521733,-0.10202440346825598,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",155179.11767521733,0.10202440346825598
+Corn,2023,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",700050.5697409484,929000.0,-228949.43025905162,-0.2464471800420362,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",228949.43025905162,0.2464471800420362
+Millet,2023,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",883354.6078056208,1353000.0,-469645.39219437924,-0.3471141110084104,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",469645.39219437924,0.3471141110084104
+Sorghum,2023,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",311128.1763515053,445000.0,-133871.82364849473,-0.3008355587606623,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",133871.82364849473,0.3008355587606623
+Peanut,2023,12,rr,"['_Weighted_Rainfall', '_Weighted_VHI']","{'training_data_years': 20, 'differencing': 1, 'ma': 0}",1305917.3184450164,1728000.0,-422082.6815549836,-0.24426081108505995,"Rice_Weighted_Rainfall_Transformed    433.760335
+Rice_Weighted_VHI_Transformed           0.022758
+Name: 128, dtype: float64",422082.6815549836,0.24426081108505995
